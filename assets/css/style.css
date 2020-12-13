@@ -86,7 +86,9 @@ p {
 
 .service img {
     max-height: 200px;
+    margin-right: 25px; 
 }
+
 
 .service h2 {
     margin-bottom: 20px;
@@ -151,7 +153,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 footer {
     padding: 30px;
