@@ -1,5 +1,5 @@
 Description:
-To improve to accessibility of a web page by refactoring its base code.
+To improve to accessibility of a web page by refactoring its starter code.
 
 User Story:
 AS A marketing agency
@@ -21,3 +21,5 @@ THEN I find a concise, descriptive title
 
 Screenshot of working webpage:
 ![image](https://user-images.githubusercontent.com/71037699/102028043-b574ea80-3d6d-11eb-850b-ccc63ba8768a.png)
+
+[View Webpage Here] (https://fthompson24.github.io/Horiseon/)
