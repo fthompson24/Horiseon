@@ -19,3 +19,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+Screenshot of working webpage:
+![image](https://user-images.githubusercontent.com/71037699/102028043-b574ea80-3d6d-11eb-850b-ccc63ba8768a.png)
