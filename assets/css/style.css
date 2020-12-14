@@ -3,27 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
-body {
-    background-color: #d9dcd6;
-}
-
+/*sets header text size and color*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Horiseon title position*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*secondary color to tilte 'SEO'*/
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/*navvigation links - size and position*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,7 +31,7 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-
+/*navigation link location*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -45,11 +41,7 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
-
+/*hero image size and source*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +50,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
+/*body background color*/
+body {
+    background-color: #d9dcd6;
 }
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*content section layout*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*layout for each indv content section*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,18 +69,31 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*image location*/
 .service img {
     max-height: 200px;
     margin-right: 25px; 
 }
-
-
+/*services section headings*/
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*services section text*/
+.service p {
+    font-size: 16px;
+}
+/*service section - image left*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/*service section - image right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/*benefits section layout*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,8 +104,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit {
+/*benefits section margin and text color*/
+.benefit  {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -115,13 +114,17 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*benefits section image layout*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*benefits section text size*/
+.benfits p {
+    font-size: 16px;
+}
+/*footer section layout*/
 footer {
     padding: 30px;
     clear: both;
