@@ -1,5 +1,5 @@
 Description:
-To ### improve ###  to accessibility of a web page by refactoring its starter code.
+To ### improve  to accessibility of a web page by refactoring its starter code.
 
 User Story:
 AS A marketing agency
